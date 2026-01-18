@@ -1,0 +1,26 @@
+id,shop_name,category,shop_type,rating,rating_count,followers,logo_url,affiliate_link,tier,verified,description
+shop_001,Công Ty Fashion Pro,thoi-trang,Cửa hàng chính thức,4.8,15420,125000,https://via.placeholder.com/200?text=Fashion+Pro,https://shopee.vn/shop/123456,n1,true,Shop thời trang cao cấp chuyên bán áo quần nam nữ chất lượng cao
+shop_002,My Pham Viet,my-pham,Cửa hàng chính thức,4.9,28500,235000,https://via.placeholder.com/200?text=My+Pham+Viet,https://shopee.vn/shop/123457,n1,true,Mỹ phẩm Việt chính hãng 100% đảm bảo chất lượng
+shop_003,Electronics World,dien-tu,Cửa hàng chính thức,4.7,42300,450000,https://via.placeholder.com/200?text=Electronics+World,https://shopee.vn/shop/123458,n1,true,Điện tử gia dụng chính hãng giá tốt nhất
+shop_004,Home Living Store,nha-cua,Cửa hàng chính thức,4.6,12500,98000,https://via.placeholder.com/200?text=Home+Living,https://shopee.vn/shop/123459,n2,false,Nội thất và đồ dùng nhà cửa giá cả phải chăng
+shop_005,Suc Khoe Plus,suc-khoe,Cửa hàng chính thức,4.8,19800,156000,https://via.placeholder.com/200?text=Suc+Khoe,https://shopee.vn/shop/123460,n1,true,Vitamin và thực phẩm chức năng chính hãng
+shop_006,Sports Gear Store,the-thao,Cửa hàng chính thức,4.5,8900,67500,https://via.placeholder.com/200?text=Sports+Gear,https://shopee.vn/shop/123461,n2,false,Dụng cụ thể thao giá rẻ chất lượng tốt
+shop_007,Baby Care Shop,me-be,Cửa hàng chính thức,4.9,35600,280000,https://via.placeholder.com/200?text=Baby+Care,https://shopee.vn/shop/123462,n1,true,Sản phẩm chăm sóc mẹ và bé an toàn
+shop_008,Food Master,do-an,Cửa hàng chính thức,4.7,22100,175000,https://via.placeholder.com/200?text=Food+Master,https://shopee.vn/shop/123463,n1,true,Thực phẩm tươi sạch giao nhanh hàng ngày
+shop_009,Book World,sach-vo,Cửa hàng chính thức,4.6,9500,75000,https://via.placeholder.com/200?text=Book+World,https://shopee.vn/shop/123464,n2,false,Sách và văn phòng phẩm giá tốt
+shop_010,Fashion Budget,thoi-trang,Cửa hàng chính thức,4.4,18900,142000,https://via.placeholder.com/200?text=Fashion+Budget,https://shopee.vn/shop/123465,n2,false,Thời trang giá bình dân được yêu thích
+shop_011,Tech Hub Vietnam,dien-tu,Cửa hàng chính thức,4.7,38500,380000,https://via.placeholder.com/200?text=Tech+Hub,https://shopee.vn/shop/123466,n1,true,Công nghệ mới nhất giá cạnh tranh
+shop_012,Beauty Essentials,my-pham,Cửa hàng chính thức,4.8,31200,245000,https://via.placeholder.com/200?text=Beauty,https://shopee.vn/shop/123467,n1,true,Mỹ phẩm đa dạng hàng chính hãng
+shop_013,Home Decor Plus,nha-cua,Cửa hàng chính thức,4.5,14800,115000,https://via.placeholder.com/200?text=Home+Decor,https://shopee.vn/shop/123468,n2,false,Trang trí và đồ nội thất hiện đại
+shop_014,Wellness Store,suc-khoe,Cửa hàng chính thức,4.6,16700,132000,https://via.placeholder.com/200?text=Wellness,https://shopee.vn/shop/123469,n2,false,Các sản phẩm chăm sóc sức khỏe tổng hợp
+shop_015,Outdoor Sports,the-thao,Cửa hàng chính thức,4.4,7200,54000,https://via.placeholder.com/200?text=Outdoor,https://shopee.vn/shop/123470,n3,false,Dụng cụ thể thao và ngoài trời đầy đủ
+shop_016,Mom Baby Store,me-be,Cửa hàng chính thức,4.8,42100,320000,https://via.placeholder.com/200?text=Mom+Baby,https://shopee.vn/shop/123471,n1,true,Sản phẩm mẹ bé uy tín số 1 Shopee
+shop_017,Fresh Food,do-an,Cửa hàng chính thức,4.6,25600,200000,https://via.placeholder.com/200?text=Fresh+Food,https://shopee.vn/shop/123472,n1,true,Thực phẩm sạch tươi ngon mỗi ngày
+shop_018,Reader Zone,sach-vo,Cửa hàng chính thức,4.5,11200,84000,https://via.placeholder.com/200?text=Reader+Zone,https://shopee.vn/shop/123473,n2,false,Sách báo tạp chí lựa chọn tốt nhất
+shop_019,Trendy Wear,thoi-trang,Cửa hàng chính thức,4.5,21500,168000,https://via.placeholder.com/200?text=Trendy+Wear,https://shopee.vn/shop/123474,n2,false,Thời trang trendy cho giới trẻ
+shop_020,Digital Pro,dien-tu,Cửa hàng chính thức,4.6,35200,340000,https://via.placeholder.com/200?text=Digital+Pro,https://shopee.vn/shop/123475,n1,true,Các thiết bị điện tử cao cấp giá ưu đãi
+shop_021,Glamour Beauty,my-pham,Cửa hàng chính thức,4.7,28900,225000,https://via.placeholder.com/200?text=Glamour,https://shopee.vn/shop/123476,n1,true,Mỹ phẩm cao cấp cho phái nữ
+shop_022,Living Comfort,nha-cua,Cửa hàng chính thức,4.4,13200,102000,https://via.placeholder.com/200?text=Living,https://shopee.vn/shop/123477,n2,false,Nội thất và trang trí nhà giá rẻ
+shop_023,Health First,suc-khoe,Cửa hàng chính thức,4.7,19200,150000,https://via.placeholder.com/200?text=Health+First,https://shopee.vn/shop/123478,n1,true,Sản phẩm sức khỏe an toàn hiệu quả
+shop_024,Active Sports,the-thao,Cửa hàng chính thức,4.3,6800,51000,https://via.placeholder.com/200?text=Active+Sports,https://shopee.vn/shop/123479,n3,false,Thể thao và fitness đầy đủ chủng loại
+shop_025,Kids World,me-be,Cửa hàng chính thức,4.9,38500,295000,https://via.placeholder.com/200?text=Kids+World,https://shopee.vn/shop/123480,n1,true,Đồ chơi và sản phẩm trẻ em đảm bảo
